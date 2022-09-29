@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktemplate_react=self.webpackChunktemplate_react||[]).push([[309],{941:(r,l,e)=>{e.r(l),e.d(l,{default:()=>n});var t=e(959),a=e(766);function n(){return t.createElement("div",null,t.createElement("h2",null,"Nothing to see here!"),t.createElement("p",null,t.createElement(a.rU,{to:"/"},"Go to the home page")))}}}]);

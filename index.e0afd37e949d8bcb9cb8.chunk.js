@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktemplate_react=self.webpackChunktemplate_react||[]).push([[826],{668:(l,t,e)=>{e.r(t),e.d(t,{default:()=>u});var a=e(959),n=e(766);function u(){return a.createElement("div",null,"IndexPage",a.createElement(n.rU,{to:"/about"},"About"))}}}]);
